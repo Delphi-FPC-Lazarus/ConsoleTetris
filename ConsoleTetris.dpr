@@ -1,4 +1,9 @@
-// Delphi Spezifischer Teil
+// Descrition:	Portable Tetris implementation
+// Author:  	Peter Lorenz - donate on Paypal: webmaster@peter-ebe.de 
+// License: 	MPL 2.0
+// THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY
+// 
+
 program ConsoleTetris;
 
 {$APPTYPE CONSOLE}
